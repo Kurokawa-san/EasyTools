@@ -3,4 +3,4 @@
 # https://www.python.org/downloads/release/python-373/ , CLICK / FIND "Windows x86-64 executable installer"
 # AFTER INSTALLING CLICK INSTALL2.BAT
 # AFTER THAT CLICK INSTALL3.BAT
-# YOU'RE FREE TO GO!
+# YOU'RE FREE TO USE EASYTOOLS!
